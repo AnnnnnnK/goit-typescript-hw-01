@@ -1,4 +1,4 @@
-function showMessage(message: unknown): void {
+function showMessage(message: string): void {
   console.log(message);
 }
 
